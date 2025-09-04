@@ -1,0 +1,6 @@
+id,level,name,uri
+1,Country,España,http://datos.gob.es/apidata/nti/territory/Country/España
+2,Autonomous-region,Comunidad de Madrid,http://datos.gob.es/apidata/nti/territory/Autonomous-region/Comunidad-Madrid
+3,Autonomous-region,Andalucía,http://datos.gob.es/apidata/nti/territory/Autonomous-region/Andalucia
+4,Province,Madrid,http://datos.gob.es/apidata/nti/territory/Province/Madrid
+5,Province,Sevilla,http://datos.gob.es/apidata/nti/territory/Province/Sevilla
